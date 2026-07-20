@@ -165,6 +165,106 @@ Join Discord
 </body>
 </html>}
 
+iframe{
+width:100%;
+height:500px;
+border:none;
+border-radius:10px;
+margin-top:20px;
+}
+
+.discord{
+background:#5865F2;
+}
+
+footer{
+padding:30px;
+color:#bbb;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Welcome To Luv Site</h1>
+
+<h2>Subscribe Our Channel</h2>
+
+<a class="btn" href="https://www.youtube.com/@Yes_Luv02" target="_blank">
+Subscribe Now
+</a>
+</header>
+
+<section>
+<div class="card">
+
+<h2>Our Latest YouTube Videos</h2>
+
+<p style="margin-top:15px;">
+Watch our latest videos from YesLuv02.
+</p>
+
+<!-- Video 1 -->
+<iframe
+src="https://www.youtube.com/embed/8qGfgSz3OW8"
+allowfullscreen>
+</iframe>
+
+<br><br>
+
+<!-- Video 2 -->
+<iframe
+src="https://www.youtube.com/embed/AAwZmCyitU8"
+allowfullscreen>
+</iframe>
+
+<br><br>
+
+<!-- Video 3 -->
+<iframe
+src="https://www.youtube.com/embed/QpHjUUZhn1c"
+allowfullscreen>
+</iframe>
+
+<br><br>
+
+<a class="btn" href="https://www.youtube.com/@Yes_Luv02" target="_blank">
+Visit Our YouTube Channel
+</a>
+
+<br><br>
+
+<a class="btn" href="https://www.youtube.com/@Yes_Luv02/community" target="_blank">
+View Community Posts
+</a>
+
+</div>
+</section>
+
+<section>
+<div class="card">
+
+<h2>🎉 Giveaways 🎉</h2>
+
+<p style="margin-top:20px;font-size:20px;">
+For giveaways join our Discord channel.
+</p>
+
+<a class="btn discord" href="https://discord.gg/E6cRKQDJ" target="_blank">
+Join Discord
+</a>
+
+</div>
+</section>
+
+<footer>
+© 2026 YesLuv02 | All Rights Reserved
+</footer>
+
+</body>
+</html>}
+
 .btn{
 display:inline-block;
 margin-top:20px;
